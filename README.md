@@ -5,7 +5,7 @@
 ### **Analista de Dados | Especialista em ETL, Automação & Inteligência Fiscal**
 📍 São Paulo, SP — Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/romualdodesouza-dados/)
+[![LinkedIn]([https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/romualdodesouza-dados/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romualdo.analytics@gmail.com)
 
 ---
